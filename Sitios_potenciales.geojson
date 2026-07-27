@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Sitios_potenciales",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "pointid": 277, "grid_code": 42.2216 }, "geometry": { "type": "Point", "coordinates": [ -58.413931422417015, -34.66192577884258 ] } },
+{ "type": "Feature", "properties": { "pointid": 9111, "grid_code": 13.9962 }, "geometry": { "type": "Point", "coordinates": [ -58.382378866981732, -34.70886877281135 ] } },
+{ "type": "Feature", "properties": { "pointid": 9428, "grid_code": 13.0737 }, "geometry": { "type": "Point", "coordinates": [ -58.429675253625334, -34.709692928205087 ] } },
+{ "type": "Feature", "properties": { "pointid": 16207, "grid_code": 34.5329 }, "geometry": { "type": "Point", "coordinates": [ -58.372817097548747, -34.732609856737348 ] } }
+]
+}
